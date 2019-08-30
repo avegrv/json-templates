@@ -3,7 +3,7 @@
 			"version": "1.0",
 			"version_code": "11",
 			"uri": "https://t2f.jet.su/participant/sign-in",
-			"api": "https://bilet.worldskills.ru/api"
+			"api": "https://t2f.jet.su/api"
 		},
 		{
 			"version": "1.0",
