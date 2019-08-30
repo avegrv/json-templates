@@ -1,5 +1,11 @@
 {
-	"versions": [{
+	"versions": [
+    {
+  		"version": "1.0",
+  		"version_code": "11",
+  		"endpoint": "https://t2f.jet.su/participant"
+  	},
+    {
 		"version": "1.0",
 		"version_code": "12",
 		"endpoint": "https://t2f.jet.su/participant"
