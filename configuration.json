@@ -14,8 +14,8 @@
 		{
 			"version": "1.0",
 			"version_code": "13",
-			"uri": "https://t2f.jet.su/participant/sign-in",
-			"api": "https://t2f.jet.su/api"
+			"uri": "https://demo.ticket2thefuture.tk/participant/sign-in",
+			"api": "https://demo.ticket2thefuture.tk/api"
 		}
 	]
 }
