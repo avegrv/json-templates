@@ -14,8 +14,8 @@
 		{
 			"version": "1.0",
 			"version_code": "13",
-			"uri": "https://demo.ticket2thefuture.tk/participant/sign-in",
-			"api": "https://demo.ticket2thefuture.tk/api"
+			"uri": "https://bilet.worldskills.ru/participant/sign-in",
+			"api": "https://bilet.worldskills.ru/api"
 		}
 	]
 }
